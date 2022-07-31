@@ -5,3 +5,5 @@
 This repository contains all the relevant material for my project in the course "Computational Statistics," taught by junior professor Lena Janys (PhD) in the summer term of 2022 at the University of Bonn. 
 
 The project is about tree-based methods; in particular, classification trees and random forests. After introducing these methods as well as comparing and contrasting them in several simulation studies, an application to an economic topic is presented. The latter is based on Keely & Tan (2008).
+
+### References 
