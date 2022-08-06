@@ -8,3 +8,6 @@ The project is about tree-based methods; in particular, classification trees and
 
 ### References 
 Keely, L. C., & Tan, C. M. (2008). Understanding Preferences for Income Redistribution. Journal of Public Economics, 92(5-6), p. 944-961. 
+
+---
+All `R` codes were run using RStudio 2022.07.1 build 554.
